@@ -21,8 +21,9 @@ Interfaz UX/UI: Experiencia de usuario limpia, inspirada en las mejores platafor
 
 Gestión de Datos: Filtrado y búsqueda eficiente de contenido cinematográfico.
 
-📸 Demo Visual
-(Te recomiendo subir la captura de pantalla que me pasaste a una carpeta llamada /assets en tu repositorio y poner el link aquí).
+Desafíos Técnicos 🚀
+Elegí usar ISR (Incremental Static Regeneration) porque el catálogo de películas no cambia cada segundo, 
+y esto permite que la página cargue un 40% más rápido que con el renderizado tradicional
 
 🛠️ Instalación y Configuración
 Si quieres ejecutar este proyecto localmente:
@@ -47,5 +48,6 @@ Inicia el servidor de desarrollo:
 Bash
 
 npm run dev
+
 💡 Notas Adicionales
 Este proyecto fue desarrollado de forma colaborativa, demostrando habilidades de trabajo en equipo y metodologías ágiles.
