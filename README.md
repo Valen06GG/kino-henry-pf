@@ -6,7 +6,7 @@ El proyecto fue construido utilizando un stack moderno para garantizar escalabil
 
 Frontend: Next.js & React.js para una navegación fluida y renderizado optimizado.
 
-Estilos: [HTML5 & CSS3] (o Tailwind si lo aplicaste) enfocado en un diseño Dark Mode elegante.
+Estilos: [HTML5 & Tailwind] enfocado en un diseño Dark Mode elegante.
 
 Lógica: JavaScript (ES6+) para el manejo de estados y componentes dinámicos.
 
@@ -48,6 +48,22 @@ Inicia el servidor de desarrollo:
 Bash
 
 npm run dev
+
+Entra a la carpeta del backend:
+
+Bash
+
+cd back
+Instala las dependencias:
+
+Bash
+
+npm install
+Inicia el servidor de desarrollo:
+
+Bash
+
+npm run start:dev
 
 💡 Notas Adicionales
 Este proyecto fue desarrollado de forma colaborativa, demostrando habilidades de trabajo en equipo y metodologías ágiles.
